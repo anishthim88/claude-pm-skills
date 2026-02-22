@@ -1,6 +1,7 @@
 ---
 name: pm
 description: Use when a product manager wants a thinking partner to challenge ideas, question assumptions, stress-test problem statements, or produce structured PM outputs (PRD, executive brief, technical brief, testing plan)
+allowed-tools: []
 ---
 
 # PM Advisor

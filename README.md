@@ -6,19 +6,19 @@ A Claude Code plugin for Product Managers. Helps teams build the right things by
 
 **Step 1: Register this repo as a marketplace (one-time per person)**
 ```
-/plugin marketplace add anishtim/pm-skills
+/plugin marketplace add anishthim88/claude-pm-skills
 ```
 
 **Step 2: Install the PM skill**
 ```
-/plugin install pm@pm-skills
+/plugin install pm@claude-pm-skills
 ```
 
 ## Update
 
 When the skill is improved, pick up changes with:
 ```
-/plugin update pm@pm-skills
+/plugin update pm@claude-pm-skills
 ```
 
 ## Skills included
